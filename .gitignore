@@ -1,0 +1,16 @@
+# Chứa API key Odoo và OpenRouter: KHÔNG BAO GIỜ đẩy lên repo
+.env
+
+# File sinh ra khi chạy
+__pycache__/
+nhat_ky_ai.jsonl
+moc_demo.txt
+
+# Bản sao lưu database (gửi riêng, không đưa lên repo)
+*.zip
+*.dump
+*.sql
+
+# Tài liệu nội bộ, giữ trên máy, không đưa lên repo
+HUONG_DAN_DEMO.md
+THAY_DOI_SO_VOI_KE_HOACH.md
